@@ -1,0 +1,12 @@
+//Derecs reservados PattitexTEX 2020-2026
+
+[
+  {
+    "title": "Episodio 1",
+    "url": "https://tu-servidor.com/video1.mp4"
+  },
+  {
+    "title": "Episodio 2",
+    "url": "https://tu-servidor.com/video2.mp4"
+  }
+]
